@@ -1,0 +1,14 @@
+this happen in order.
+
+# git init : to initialize the reposatory
+# git add .
+# git commit -m "your message goes here"
+# git status
+# git log (hit 'q' to exit)      this one is to see what files are logged in. 
+# git checkout (unique commit id)
+
+Git Remot Commands...
+# git remote add origin (url)
+# git remote -v
+# git push origin master
+# git pull origin master
